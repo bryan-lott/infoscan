@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/blott\/code\/infoscan\/target\/cljsbuild\/public\/js\/out\/infoscan\/util.js","sources":["util.cljc"],"lineCount":11,"mappings":";AAAA;;AAEA,yBAAA,zBAAMA,0DAAUC;AAAhB,AAAA;AAAA,mFAEGA;;AACD,qCAAA,9BAACC,4BAAQD","names":["infoscan.util\/foo-cljc","x","cljs.core\/println"]}

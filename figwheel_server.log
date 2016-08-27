@@ -1,0 +1,1438 @@
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.822 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.553 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.324 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.287 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.52 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.432 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.296 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.426 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.514 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.382 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.444 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.332 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.265 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.282 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.399 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.333 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.3 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.433 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: No such namespace: r, could not locate r.cljs, r.cljc, or Closure namespace "" at line 10 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var r/atom at line 10 src/cljs/infoscan/core.cljs
+WARNING: No such namespace: r, could not locate r.cljs, r.cljc, or Closure namespace "" at line 11 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var r/atom at line 11 src/cljs/infoscan/core.cljs
+WARNING: No such namespace: r, could not locate r.cljs, r.cljc, or Closure namespace "" at line 12 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var r/atom at line 12 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.61 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.365 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.413 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.471 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.275 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 65, column 27
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.388 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.495 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.678 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.318 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.271 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.281 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 3.734 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 65, column 40
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.336 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.553 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.293 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.268 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.567 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.572 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/parse-input at line 67 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.352 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.581 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.333 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.506 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.526 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.519 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.518 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.252 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.271 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.627 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.546 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.27 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.499 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.25 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.438 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.641 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.427 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.248 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.391 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.609 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.327 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 71, column 69
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.294 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 73, column 69
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.27 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.24 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.296 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.556 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.412 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.345 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Wrong number of args (1) passed to clojure.string/split at line 75 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.306 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.238 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.252 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.452 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.659 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.637 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Wrong number of args (1) passed to clojure.string/split-with-empty-regex at line 36 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.67 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.268 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.252 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.522 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.541 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.532 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.377 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.325 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.6 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.534 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Invalid token: : on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 98, column 29
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.954 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Invalid token: : on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 98, column 29
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.21 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.831 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 87 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 97 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.457 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 99 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.299 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/higlight-words at line 119 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.354 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.221 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.424 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.213 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.227 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.25 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/parse-input at line 104 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.458 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.364 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.376 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.343 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.214 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.395 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.219 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/higlight-words at line 134 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.407 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.21 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Too many arguments to if at line 131 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 131, column 8
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.214 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.377 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.318 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.235 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.21 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.222 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.256 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.547 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.796 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.826 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.063 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.248 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.268 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 2.529 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 2.23 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.973 seconds.[0m
+sending changed CSS file: resources/public/css/site.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 3.722 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.742 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.587 seconds.[0m
+sending changed CSS file: resources/public/css/site.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.895 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.822 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.673 seconds.[0m
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.62 seconds.[0m
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.795 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.452 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.44 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.895 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.45 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.068 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.374 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.804 seconds.[0m
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.566 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.677 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.609 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.804 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.564 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.54 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.641 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.754 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.028 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.685 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.322 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.849 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.252 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.278 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.892 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ] on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 122, column 41
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.627 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.77 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 6.048 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/row-color at line 120 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/row-color at line 123 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/row-color at line 123 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.455 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.129 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.834 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.064 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.899 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.006 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.853 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.864 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.604 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.595 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.912 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.8 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.116 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.922 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/toggle-row-color at line 130 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.707 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.061 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.956 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.913 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 2.48 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.705 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.999 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.953 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.637 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.58 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/fade-words at line 53 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words at line 54 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words at line 160 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words at line 163 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.697 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/fade-words at line 160 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words at line 163 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.405 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/fade-words at line 160 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words at line 163 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.653 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.645 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.911 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.108 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/get-file-id-position at line 59 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.829 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.494 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.521 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.155 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.291 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc"]...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs-hash.md5, could not locate cljs_hash/md5.cljs, cljs_hash/md5.cljc, or Closure namespace "cljs-hash.md5" on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.434 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc"]...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs-hash.goog, could not locate cljs_hash/goog.cljs, cljs_hash/goog.cljc, or Closure namespace "cljs-hash.goog" on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.366 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc"]...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs-hash.goog, could not locate cljs_hash/goog.cljs, cljs_hash/goog.cljc, or Closure namespace "cljs-hash.goog" on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.322 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc"]...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs-hash.goog, could not locate cljs_hash/goog.cljs, cljs_hash/goog.cljc, or Closure namespace "cljs-hash.goog" on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.347 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc"]...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs-hash.goog, could not locate cljs_hash/goog.cljs, cljs_hash/goog.cljc, or Closure namespace "cljs-hash.goog" on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.197 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs-hash.md5, could not locate cljs_hash/md5.cljs, cljs_hash/md5.cljc, or Closure namespace "cljs-hash.md5" on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.09 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.695 seconds.[0m
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+sending changed CSS file: resources/public/css/site.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.035 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.994 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.028 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.815 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.818 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.716 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.825 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.062 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.807 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.861 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.066 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.912 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.468 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.428 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.633 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.45 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.431 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/hader at line 167 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.623 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.367 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.721 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.586 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.948 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.456 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.464 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.59 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.61 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.344 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.398 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.392 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc"]...
+notifying browser that file changed:  target/cljsbuild/public/js/app.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.627 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.897 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.642 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.718 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.384 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.377 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.642 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.658 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.617 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.259 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.069 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.222 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.208 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.077 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.117 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.582 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.014 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.207 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.188 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.046 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.225 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.166 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.478 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.353 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.645 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.603 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.696 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.697 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.685 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.651 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.207 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.397 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 122, column 37
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.469 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.161 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.935 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.899 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.071 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.763 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.826 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.942 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.796 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.958 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/word-color at line 26 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 29 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 29 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 65 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 68 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 69 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 71 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 71 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 71 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 121 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 124 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 134 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 137 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 147 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 150 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 167 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 207, column 42
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.476 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/word-color at line 32 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 35 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 35 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 71 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 74 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 75 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 76 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 76 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 77 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 77 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 77 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 127 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 130 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 140 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 143 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 153 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 156 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 170 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 210, column 42
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.464 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 227, column 48
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.249 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 64 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 74 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 77 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 77 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 113 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 116 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 117 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 118 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 118 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 119 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 119 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 119 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 169 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 172 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 182 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 185 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 195 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 198 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 212 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 242, column 46
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.697 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 65 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 75 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 78 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 78 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 114 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 117 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 118 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 119 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 119 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 120 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 120 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 120 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 170 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 173 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 183 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 186 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 196 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 199 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 213 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 243, column 44
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.501 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 66 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 76 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 79 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 79 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 115 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 118 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 119 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 120 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 120 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 121 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 121 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 121 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 171 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 174 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 184 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 187 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 197 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 200 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 214 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 244, column 44
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.896 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 80 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 83 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 83 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 119 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 122 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 123 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 124 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 124 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 125 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 125 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 125 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 175 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 178 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 188 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 191 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 201 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 204 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 218 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 248, column 44
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.514 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 66 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 79 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 82 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 82 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 118 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 121 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 122 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 123 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 123 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 124 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 124 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 124 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 174 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 177 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 187 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 190 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 200 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 203 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 217 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 247, column 44
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.592 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 83 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 86 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 86 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 122 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 125 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 126 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 127 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 127 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 128 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 128 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 128 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 178 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 181 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 191 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 194 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 204 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 207 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 221 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 251, column 44
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.523 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 83 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 86 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 86 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 122 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 125 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 126 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 127 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 127 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 128 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 128 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 128 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 178 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 181 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 191 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 194 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 204 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 207 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 221 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 251, column 44
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.529 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 86 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 122 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 125 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 126 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 127 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 127 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 128 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 128 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 128 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 178 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 181 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 191 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 194 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 204 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 207 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 221 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 251, column 44
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.91 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 95 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word at line 95 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/color at line 95 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Wrong number of args (2) passed to infoscan.core/color-update! at line 100 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 131 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 134 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/datagrid at line 135 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 136 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 136 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 137 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 137 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 137 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 187 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/raw at line 190 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 200 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/fade-words-raw at line 203 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 213 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/highlight-words-raw at line 216 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 230 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 260, column 44
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.878 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 100 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 100, column 16
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.439 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 98 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 98, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.439 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 98 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 98, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.426 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 98 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 98, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.447 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 98 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 98, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.388 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 98 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 98, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.473 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 98 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 98, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.363 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 105 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 105, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.459 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 103 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 103, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.427 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 103 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 103, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.392 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 103 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 103, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.441 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.269 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.316 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.406 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/table-contents at line 70 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.427 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.421 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.543 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.523 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.273 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.454 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.377 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.275 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.341 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 107 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 107, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.873 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 109 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 109, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.19 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 111 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 111, column 16
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.367 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 111 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 111, column 16
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.39 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 109 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 109, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.355 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 108 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 108, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.207 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Don't know how to create ISeq from: clojure.lang.Symbol at line 119 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 119, column 16
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.178 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var clojure.string/strip at line 132 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 226 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/data-indices at line 230 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 253 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 256 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 290 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 297 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 299 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.726 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var clojure.string/strip at line 123 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 217 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/data-indices at line 221 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 244 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 247 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 281 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 288 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 290 /home/blott/code/infoscan/src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.772 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/export at line 217 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/data-indices at line 221 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 244 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 247 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 281 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 288 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 290 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.272 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/header at line 245 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 248 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 282 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 289 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 291 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.629 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/header at line 245 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 248 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 282 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 289 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 291 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.427 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/header at line 245 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/header at line 248 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 282 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 289 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 291 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.543 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/word-color at line 282 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/word-color at line 289 src/cljs/infoscan/core.cljs
+WARNING: Use of undeclared Var infoscan.core/export at line 291 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.397 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var infoscan.core/export at line 291 src/cljs/infoscan/core.cljs
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.849 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.912 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.869 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.487 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.422 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.462 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.476 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.984 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.041 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.438 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.477 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ] on file /home/blott/code/infoscan/src/cljs/infoscan/core.cljs, line 241, column 7
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.571 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.019 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.059 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.058 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.066 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.955 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.441 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.643 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.673 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.377 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.371 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.653 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.344 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.595 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.59 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.285 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.232 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.462 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.522 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.385 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.517 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.396 seconds.[0m
+sending changed CSS file: resources/public/css/site.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.358 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.394 seconds.[0m
+sending changed CSS file: resources/public/css/site.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/infoscan/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.363 seconds.[0m
