@@ -1,5 +1,5 @@
 # infoscan
-Color coding of text to make looking for important (but unknown words) easier.
+Color coding of text to make looking for important (but unknown words) easier, i.e. Personally Indentifiable Information (PII) in freeform text.
 
 ## project status
 Definitely not in a working state at the moment.  Web dev is not my strong point so I'm using this project to learn a bit about it.
@@ -19,3 +19,15 @@ Humans are great at pattern recognition, computers not as much.  So, leverage hu
 - Each word is clickable to cycle all instances of that word through the 3 states.
 - Each row of text is clickable so it can be exported for processing in another application.
   - In essence this is to mark a row as containing highlighted red words.
+
+## TODO
+
+### 1.0
+- Use css classes for
+- Database Access
+- Export of Text to Summarize
+- Integration with Ticketing System
+-
+
+### 2.0
+- "Tinder"-like interface

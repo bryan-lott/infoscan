@@ -48,16 +48,7 @@
 
 (def app-state (r/atom {:sort-val :pii?
                         :ascending true
-                        :raw-hive "\"merchant\",\"internal_vendor_id\",\"internal_template_id\",\"internal_file_id\",\"internal_order_id\",\"product_title\",\"product_subtitle\",\"receipt_title\",\"crawled_title\",\"product_sku\",\"product_when\",\"product_where\",\"seller\",\"invoice_id\",\"orig_n\",\"rand_n\"
-\"Blue Nile\",\"17\",\"20\",\"3664939815\",\"1345831657\",\"Mini Disc Pendant in Sterling Silver\",\"\",\"Mini Disc Pendant in Sterling Silver\",\"\",\"24314\",\"\",\"\",\"Blue Nile\",\"77814891\",\"193\",\"81\"
-\"Blue Nile\",\"17\",\"20\",\"3340038888\",\"1345830714\",\"House Charm in Sterling Silver\",\"\",\"House Charm in Sterling Silver\",\"\",\"7271\",\"\",\"\",\"Blue Nile\",\"66689128\",\"268\",\"97\"
-\"Blue Nile\",\"17\",\"20\",\"0\",\"1119424088\",\"Petite Solitaire Engagement Ring in Platinum\",\"Size: 7.25\",\"Petite Solitaire Engagement Ring in Platinum\",\"\",\"19010\",\"\",\"\",\"Blue Nile\",\"72387662\",\"360\",\"53\"
-\"Blue Nile\",\"17\",\"20\",\"3357159892\",\"1346265530\",\"Children's Cross Pendant in 14k Yellow Gold\",\"\",\"Children's Cross Pendant in 14k Yellow Gold\",\"\",\"20170\",\"\",\"\",\"Blue Nile\",\"92065898\",\"422\",\"44\"
-\"Blue Nile\",\"17\",\"20\",\"0\",\"1296663462\",\"Princess .51-Carat Blue Nile Signature Diamond\",\"\",\"Princess .51-Carat Blue Nile Signature Diamond\",\"\",\"LD03008036\",\"\",\"\",\"Blue Nile\",\"92943403\",\"684\",\"22\"
-\"Blue Nile\",\"17\",\"20\",\"3681575466\",\"1350432171\",\"Blue Nile Gem & Jewelry Cleaning Set\",\"\",\"Blue Nile Gem & Jewelry Cleaning Set\",\"\",\"10896\",\"\",\"\",\"Blue Nile\",\"27645664\",\"764\",\"78\"
-\"Blue Nile\",\"17\",\"20\",\"3286190879\",\"1345842072\",\"Hinged Hoop Earrings in Sterling Silver\",\"\",\"Hinged Hoop Earrings in Sterling Silver\",\"\",\"956\",\"\",\"\",\"Blue Nile\",\"55077093\",\"867\",\"13\"
-\"Blue Nile\",\"17\",\"20\",\"2773117883\",\"1345836850\",\"Classic Wedding Ring in 14k White Gold (4mm)\",\"Size: 6.5\",\"Classic Wedding Ring in 14k White Gold (4mm)\",\"\",\"20389\",\"\",\"\",\"Blue Nile\",\"47034989\",\"1025\",\"11\"
-\"Blue Nile\",\"17\",\"20\",\"4042899136\",\"1562494865\",\"Pavé Sapphire and Diamond Ring in 14K White Gold\",\"Size: 7.5\",\"Pavé Sapphire and Diamond Ring in 14K White Gold\",\"\",\"21209\",\"\",\"\",\"Blue Nile\",\"35821988\",\"1080\",\"66\""
+                        :raw-hive ""
                         :raw-fade ""
                         :raw-highlight ""
                         :word-color {}
@@ -105,7 +96,29 @@
        "black" "red"
        "red" "lightgrey"
        "lightgrey" "black"
-       "black")))
+       "red")))
+
+
+;; -------------------------
+;; Selectors
+
+(defn nodelist-to-seq
+  "Converts nodelist to (not lazy) seq."
+  [nl]
+  (let [result-seq (map #(.item nl %) (range (.-length nl)))]
+    (doall result-seq)))
+
+(defn q
+  "Get a handle on all words in the tag."
+  [selector]
+  (nodelist-to-seq (.querySelectorAll js/document selector)))
+
+(defn cycle-word-color! [word]
+  (color-update! word)
+  (let [new-color (color-lookup word)
+        words (q (str ".word-" word))]
+    (doseq [word words] (aset word "style" "color" new-color))))
+
 
 
 ;; -------------------------
@@ -167,13 +180,12 @@
   (if (re-find #"\w+" word)
     [:span
      {:class (str "word-" (s/lower-case word))
-;;      {:style {:color (color-lookup word)}
-            :on-click #(color-update! word)}
+             :on-click #(cycle-word-color! (s/lower-case word))
+             :style {:color "black"
+                     :cursor "pointer"}}
+
      word]
-    [:span
-     {:class (str "word-" (s/lower-case word))}
-;;      {:style {:color "black"}}
-     word]))
+    [:span word]))
 
 ;; var x = document.querySelectorAll(".word-silver");
 ;; for (var i = 0; i < x.length; i++) {x[i].style.color = "red";}
