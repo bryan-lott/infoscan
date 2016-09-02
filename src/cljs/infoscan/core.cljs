@@ -96,7 +96,29 @@
        "black" "red"
        "red" "lightgrey"
        "lightgrey" "black"
-       "black")))
+       "red")))
+
+
+;; -------------------------
+;; Selectors
+
+(defn nodelist-to-seq
+  "Converts nodelist to (not lazy) seq."
+  [nl]
+  (let [result-seq (map #(.item nl %) (range (.-length nl)))]
+    (doall result-seq)))
+
+(defn q
+  "Get a handle on all words in the tag."
+  [selector]
+  (nodelist-to-seq (.querySelectorAll js/document selector)))
+
+(defn cycle-word-color! [word]
+  (color-update! word)
+  (let [new-color (color-lookup word)
+        words (q (str ".word-" word))]
+    (doseq [word words] (aset word "style" "color" new-color))))
+
 
 
 ;; -------------------------
@@ -158,13 +180,12 @@
   (if (re-find #"\w+" word)
     [:span
      {:class (str "word-" (s/lower-case word))
-;;      {:style {:color (color-lookup word)}
-            :on-click #(color-update! word)}
+             :on-click #(cycle-word-color! (s/lower-case word))
+             :style {:color "black"
+                     :cursor "pointer"}}
+
      word]
-    [:span
-     {:class (str "word-" (s/lower-case word))}
-;;      {:style {:color "black"}}
-     word]))
+    [:span word]))
 
 ;; var x = document.querySelectorAll(".word-silver");
 ;; for (var i = 0; i < x.length; i++) {x[i].style.color = "red";}
