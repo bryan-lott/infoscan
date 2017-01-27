@@ -5,7 +5,9 @@ Color coding of text to make looking for important (but unknown words) easier, i
 Definitely not in a working state at the moment.  Web dev is not my strong point so I'm using this project to learn a bit about it.
 
 ## project concept
-Humans are great at pattern recognition, computers not as much.  So, leverage human pattern recognition to find words in text that shouldn't be there.
+Humans are great at pattern recognition, computers not as much.  So, leverage human pattern recognition to find words in text that shouldn't be there.  Over time build up a list of known good and known bad strings.  This can, at some future point, be used as a training set for machine learning.
+
+The current use case is finding PII (names, SS#'s, phone #'s, addresses, etc) in freeform text.  As a developer syntax highlighting is a huge help when I'm reading or writing code.  There's no reason why we can't provide a syntax highlight for known good or bad words.
 
 - Import a csv of words.
   -  It's a specific format currently, making it dynamic will be a future enhancement.
@@ -23,11 +25,7 @@ Humans are great at pattern recognition, computers not as much.  So, leverage hu
 ## TODO
 
 ### 1.0
-- Use css classes for
+- Use css classes for color coding
 - Database Access
 - Export of Text to Summarize
 - Integration with Ticketing System
--
-
-### 2.0
-- "Tinder"-like interface
