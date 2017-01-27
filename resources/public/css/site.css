@@ -3,6 +3,7 @@ body {
   max-width: 600px;
 /*   margin: 0 auto; */
   padding-top: 15px;
+  padding-left: 15px;
   -webkit-font-smoothing: antialiased;
   font-size: 1.125em;
   color: #333;
@@ -53,12 +54,38 @@ th {
 
 .redfont {
   color:red
+  cursor:pointer;
+  cursor:hand;
 }
 
 .blackfont {
   color:black
+  cursor:pointer;
+  cursor:hand;
 }
 
 .greyfont {
   color:lightgrey
+  cursor:pointer;
+  cursor:hand;
+}
+
+.sort {
+  text-decoration: underline;
+}
+
+.sort:hover {
+  color:green;
+  cursor:pointer;
+  cursor:hand;
+}
+
+.disableselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
 }
