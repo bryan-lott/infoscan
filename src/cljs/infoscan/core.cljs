@@ -9,24 +9,6 @@
 ;; -------------------------
 ;; State Management
 
-(def all-keys [:pii?
-               :merchant
-               :internal_vendor_id
-               :internal_template_id
-               :internal_file_id
-               :internal_order_id
-               :product_title
-               :product_subtitle
-               :receipt_title
-               :crawled_title
-               :product_sku
-               :product_when
-               :product_where
-               :seller
-               :invoice_id
-               :orig_n
-               :rand_n])
-
 (def meta-keys [:internal_vendor_id
                 :internal_template_id
                 :internal_file_id
@@ -34,28 +16,23 @@
                 :orig_n
                 :rand_n])
 
-(def data-keys [:pii?
-                :merchant
-                :product_title
-                :product_subtitle
-                :receipt_title
-                :crawled_title
-                :product_sku
-                :product_when
-                :product_where
-                :seller
-                :invoice_id])
+(def test-raw
+  "\"company\",\"name\",\"id\",\"address\"
+\"Egestas Corp.\",\"Craig\",\"1686112533299\",\"438-1888 Velit Av.\"
+\"Eros Non Limited\",\"Victoria\",\"1684031229499\",\"8877 Dictum Rd.\"
+\"Tortor PC\",\"Kylynn\",\"1681122382999\",\"P.O. Box 261, 8193 Elit Road\"")
 
-(def app-state (r/atom {:sort-val :pii?
+(def app-state (r/atom {:sort-val :export?
                         :ascending true
-                        :raw-hive ""
+                        :raw-hive test-raw ;; normally this is an empty string ""
                         :raw-fade ""
                         :raw-highlight ""
+                        :data-keys []
                         :word-color {}
                         :export #{}
                         :table-contents []}))
 
-(defn update-sort-value
+(defn update-sort-value!
   "Change the table sort to the new-val and ascending or descending."
   [new-val]
   (if (= new-val (:sort-val @app-state))
@@ -66,10 +43,10 @@
 (defn sorted-contents
   "Return a table sorted by the app-state's current :sort-val and :ascending values."
   []
-  (let [sorted-contents (sort-by (:sort-val @app-state) (:table-contents @app-state))]
+  (let [sorted-content (sort-by (:sort-val @app-state) (:table-contents @app-state))]
     (if (:ascending @app-state)
-      sorted-contents
-      (rseq sorted-contents))))
+      sorted-content
+      (rseq sorted-content))))
 
 (defn key->str
   "Change a :keyword back into a regular string w/o the leading colon."
@@ -129,14 +106,19 @@
   [ks data]
   (zipmap ks (apply conj [""] (s/split (s/replace data #"^\"|\"$" "") #"\",\""))))
 
+(defn raw->header
+  [line]
+  (map keyword (s/split (s/replace line #"^\"|\"$" "") #"\",\"")))
+
 (defn raw->map
   "Assumes that input will be text in a always-quoted csv format
-  where the first row is a header.  Produces a list of maps."
+  where the first row is a header.  Produces the header and a list of maps."
   [input]
   (let [lines (-> input s/trim s/split-lines)
-        header (map keyword (s/split (s/replace (first lines) #"^\"|\"$" "") #"\",\""))
+        header (concat [:export?] (raw->header (first lines)))
         data (rest lines)]
-    (map (partial line->map header) data)))
+    {:data-keys header
+     :table-contents (map (partial line->map header) data)}))
 
 (defn raw-word->map
   "Create a map from a string and color.
@@ -176,25 +158,19 @@
    [:a {:href "/export"} "Export"]
    [:hr]])
 
-(defn word-component [word]
-  (if (re-find #"\w+" word)
-    [:span
-     {:class (str "word-" (s/lower-case word))
-             :on-click #(cycle-word-color! (s/lower-case word))
-             :style {:color "black"
-                     :cursor "pointer"}}
-
-     word]
-    [:span word]))
-
-;; var x = document.querySelectorAll(".word-silver");
-;; for (var i = 0; i < x.length; i++) {x[i].style.color = "red";}
-
-;; egghead.io
-
 (defn raw-component []
   [:div
    [:table
+    [:tr
+     [:td
+      [:label "Parsed Header Row"]]
+     [:td
+      [:textarea.form-control
+       {:field :textarea
+        :style {:width "100%"}
+        :readOnly true
+        :id :raw-header
+        :value (:data-keys @app-state)}]]]
     [:tr
      [:td
       [:label "Raw Hive Input"]]
@@ -207,7 +183,7 @@
         :placeholder "Paste the output of your Hive query here (csv)"
         :on-change #(do
                       (swap! app-state assoc :raw-hive (-> % .-target .-value))
-                      (swap! app-state assoc :table-contents (raw->map (:raw-hive @app-state))))}]]]
+                      (swap! app-state merge (raw->map (:raw-hive @app-state))))}]]]
     [:tr
      [:td
       [:label "Fade Words"]]
@@ -237,6 +213,23 @@
 
 
 
+(defn word-component [word]
+  (if (re-find #"\w+" word)
+    (let [cycle-color (fn [event] (cycle-word-color! word))]
+      [:span
+       {:class (str "disableselect word-" (s/lower-case word))
+        :style {:color (color-lookup word)}
+        :on-click cycle-color}
+       word])
+    [:span
+     {:class (str "word-" (s/lower-case word))}
+     word]))
+
+;; var x = document.querySelectorAll(".word-silver");
+;; for (var i = 0; i < x.length; i++) {x[i].style.color = "red";}
+
+;; egghead.io
+
 (defn line-component [line]
   (let [row-color (r/atom "white")]
     (fn []
@@ -250,12 +243,20 @@
                               (toggle-row-color! row-color))}]]
        (map-indexed
          #(with-meta %2 {:key %1 :data %2})
-         (for [k (rest data-keys)]
+         (for [k (rest (:data-keys @app-state))]
            [:td
             (map-indexed
               #(with-meta %2  {:key %1})
               (for [word (s/split (get line k) #"\b")]
                 [word-component word]))]))])))
+
+(defn header-component [head]
+  (let [update-sort! (fn [event] (update-sort-value! head))]
+    (fn []
+      [:th {:width "200"
+            :on-click update-sort!
+            :class "sort disableselect"}
+       (key->str head)])))
 
 (defn table []
   (fn []
@@ -264,26 +265,13 @@
       [:tr
        (map-indexed
          #(with-meta %2 {:key %1})
-         (for [head data-keys]
-           [:th {:width "200"
-                 :on-click #(update-sort-value head)}
-            (key->str head)]))]]
+         (for [head (:data-keys @app-state)]
+           [header-component head]))]]
      [:tbody
       (map-indexed
          #(with-meta %2 {:key %1})
        (for [line (sorted-contents)]
          [line-component line]))]]))
-
-
-;; (defn datagrid-component [data]
-;;   (fn []
-;;     (let [data-indices (list-indices data-keys @header)]
-;;       [:table
-;;        [:th "Contains PII" (map-indexed #(with-meta %2 {:key %1})
-;;                                         (for [heading (extract-indices data-indices @header)]
-;;                                           [:td heading]))]
-;;        (map-indexed #(with-meta %2  {:key %1}) (for [line @data]
-;;                                                  [line-component line data-indices]))])))
 
 
 ;; -------------------------
